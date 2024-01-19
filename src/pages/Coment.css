@@ -1,0 +1,43 @@
+/* Coment.css */
+.coment-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .post-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .post-description {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .comment-form {
+    margin-top: 20px;
+  }
+  
+  /* Adicione estilos para tornar o botão mais simples e limpo */
+  .comment-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Adapte o estilo do alert para ser mais discreto */
+  .alert {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .main{ 
+    background-color: black;
+    color: white;
+  }
+  .poC{
+  border: white solid 1px;
+  }
